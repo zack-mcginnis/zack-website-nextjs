@@ -23,6 +23,10 @@ npm start
 GET /api/articles
 GET /api/articles/:id
 
+
+### Other
+
+Thanks to Brad Traversy for the inspiration behind this starter/template.
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
